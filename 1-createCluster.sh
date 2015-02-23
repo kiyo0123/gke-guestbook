@@ -1,4 +1,4 @@
-CLUSTER_NAME=guestbook
+#CLUSTER_NAME=guestbook
 NUM_NODES=3
 MACHINE_TYPE=n1-standard-1
 ZONE=asia-east1-a
